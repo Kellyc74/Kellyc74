@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Kelly 
-- 👀 I’m interested in creating, building and ML learning with deep insights, NLP and GEO spatial analysis across a wide array of data sources
-- 🌱 I’m currently learning data engineering
-- 💞️ I’m looking to collaborate on data aggregation across complex architectures
+- 👀 I’m interested in creating, building and most importantly learning as much as I can with what I can do with AI, ML, DevSecOps, Automation and having fun with it!
 
 
 <!---
